@@ -17,7 +17,7 @@
 | **On-the-Fence**  | 45%        | Avoids premium features             | Bundle discounts (voicemail + int'l) |
 | **At-Risk**       | 70%        | High int'l charges, low engagement  | Personalized cost relief offers    |
 
-https://github.com/ines-jendoubi/Telco-Churn-Insights/blob/572f2f34a2f40f452ea8c0ce183945bf9e1e7ae3/roc_curve.png 
+![ROC Curve](https://github.com/ines-jendoubi/Telco-Churn-Insights/blob/572f2f34a2f40f452ea8c0ce183945bf9e1e7ae3/roc_curve.png)
 *XGBoost/SVM achieves near-perfect AUC (0.99)*
 
 ---
