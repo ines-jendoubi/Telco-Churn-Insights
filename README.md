@@ -1,4 +1,3 @@
-# Telco-Churn-Insights
 # 🚀 Telecom Churn Prediction: ML-Powered Retention Strategies
 
 **CRISP-DM Project** | **XGBoost/SVM (97.7% Accuracy, 0.99 AUC)**  
